@@ -1,5 +1,6 @@
-# Intract Assignment todo list
- A basic todo list built using vuejs , vuex & vuetify
+## A basic todo list built using vuejs , vuex & vuetify
+## This Assignment is hosted on [GitHub](https://github.com/AdityaRamanSingh/Intract-Assignment-todo-list).
+## This Assignment is also hosted live on [Vercel](https://intract-assignment-todo-list.vercel.app/). 
 # Project setup
 npm install
 # Compiles and hot-reloads for development
